@@ -1,16 +1,22 @@
 # thermemeter case
 pnorm(1.27, mean=0, sd=1, lower.tail=TRUE) 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 19500114ce4ddd9f303c1383d9fe9128434b07eb
 # P (z > –1.23)
 # cara 1:
 1 - pnorm(-1.23)
 # cara 2:
 pnorm(-1.23, lower.tail = FALSE)
 
+<<<<<<< HEAD
 pnorm(1.5) - pnorm(-2)
 
+=======
+>>>>>>> 19500114ce4ddd9f303c1383d9fe9128434b07eb
 # given prob, what's the z?
 qnorm(0.95)
 
