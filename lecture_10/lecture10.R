@@ -33,6 +33,7 @@ critical.r <- function( n, alpha = .05 ) {
 }
 # Example usage: Critical correlation coefficient at sample size of n = 100
 critical.r(23, 0.05)
+critical.r(6, 0.05)
 
 
 #### REGRESSION #########
